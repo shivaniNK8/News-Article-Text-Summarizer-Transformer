@@ -1,4 +1,4 @@
-# Highlights! -  News Text Summarization with Abstractive and Extractive Techniques
+# Highlights! -  News Text Summarization with Abstractive (T5 Transformer) and Extractive (Text Ranking) Techniques
 
 ## Problem Definition
 
